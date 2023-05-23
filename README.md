@@ -2,7 +2,7 @@
 
 ![Alt text](https://cdn-images-1.medium.com/max/800/1*pPcVfZ7i-gLMabUol3zezA.gif)
 
-Project Proposal and All More Info: [Checkout Manual](https://drive.google.com/file/d/1e9QA0w7LVLGwZNPYvHaI5HnIgJOKkxbk/view). 
+Project Proposal and All More Info: [Checkout Manual](https://drive.google.com/file/d/1iFBPDKlmrKX_kK5ptoPvgwHeTYdrArE5/view?usp=sharing). 
 
 On similar lines let's create a very basic chatbot utlising the Python's NLTK library.It's a very simple bot with hardly any cognitive skills,but still a good way to get into NLP and get to know about chatbots.
 
